@@ -19,6 +19,8 @@
     Finsihed 2019
   - **程序员的数学 2**  
     Finished 2019
+  - **图解算法**  
+    Finished 2019
 
 ## Lectures
 
