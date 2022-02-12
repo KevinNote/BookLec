@@ -32,6 +32,8 @@
   Finished 2022
 - **MIT The Missing Semester of Your CS Education (2020)**  
   Finished 2022
+- **JHU COVID-19 Contact Tracing**  
+  Finished 2022
 
 ## Useful Links
 
