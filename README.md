@@ -4,13 +4,13 @@
 
 - **Computer Science**
   - **Java Programming 9th Edition** by Joyce Farrell  
-    Finished 2021
+    Finished Sep 2021
   - **Java 编程思想（第4版）**  
-    Finished 2021
+    Finished Sep 2021
   - **C\# 入门经典（第7版）**  
     Finished 2018
   - **The Rust Programming Language (Covers Rust 2018)**  
-    Finished 2021
+    Finished Mar 2021
   - **Go 语言从入门到进阶实战**  
     Finished 2020
   - **图解密码学**  
