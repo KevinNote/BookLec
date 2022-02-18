@@ -24,16 +24,20 @@
 
 ## Lectures
 
-- **UoB Module 06-30175 (2021) Data Structures & Algorithms Level 1/C**  
-  Finished 2022
-- **UoB Module 06-35324 (2021) Mathematical and Logical Foundations of Computer Science Level 1/C**  
-  Finished 2022
-- **UoB Module 06-34229 (2021) Object Oriented Programming Level 1/C**  
-  Finished 2022
-- **MIT The Missing Semester of Your CS Education (2020)**  
-  Finished 2022
-- **JHU COVID-19 Contact Tracing**  
-  Finished 2022
+- **Computer Science**
+  - **UoB Module 06-30175 (2021) Data Structures & Algorithms Level 1/C**  
+    Finished Jan 2022
+  - **UoB Module 06-35324 (2021) Mathematical and Logical Foundations of Computer Science Level 1/C**  
+    Finished Jan 2022
+  - **UoB Module 06-34229 (2021) Object Oriented Programming Level 1/C**  
+    Finished Jan 2022
+  - **MIT The Missing Semester of Your CS Education (2020)**  
+    Finished Jan 2022
+- **Medicine**
+  - **JHU COVID-19 Contact Tracing**  
+    Finished Feb 2022
+  - **Introduction to COVID-19: methods for detection, prevention, response and control**  
+    Finished Feb 2022
 
 ## Useful Links
 
