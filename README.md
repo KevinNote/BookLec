@@ -21,6 +21,9 @@
     Finished 2019
   - **图解算法**  
     Finished 2019
+- **Literature**
+  - **许三观卖血记**  
+    Finished Feb 2022
 
 ## Lectures
 
