@@ -24,6 +24,9 @@
 - **Literature**
   - **许三观卖血记**  
     Finished Feb 2022
+- **Medicine**
+  - **癌症·真相 医生也在读**  
+    Finished Feb 2022
 
 ## Lectures
 
