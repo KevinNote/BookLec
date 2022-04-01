@@ -39,6 +39,8 @@
     Finished Jan 2022
   - **MIT The Missing Semester of Your CS Education (2020)**  
     Finished Jan 2022
+  - **UoW CS130 Mathematics for Computer Scientists I**  
+    Finished April 2022
 - **Medicine**
   - **JHU COVID-19 Contact Tracing**  
     Finished Feb 2022
