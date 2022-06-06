@@ -41,6 +41,12 @@
     Finished Jan 2022
   - **UoW CS130 Mathematics for Computer Scientists I**  
     Finished April 2022
+  - **UoB Module 06-34252 (2021) Full Stack Application Development Level 1/C**  
+    Finished May 2022
+  - **UoB Module 06-34238 (2021) Artificial Intelligence 1 Level 1/C**  
+    Finished May 2022
+  - **UoB Module 06-35393 Theories of Computation Level 1/C**  
+    Finished May 2022
 - **Medicine**
   - **JHU COVID-19 Contact Tracing**  
     Finished Feb 2022
